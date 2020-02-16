@@ -1,13 +1,13 @@
 {
 	"origin": "Coffman Memorial Union",
 	"destination": "Mark G. Yudof Hall",
-	"coordinates": {[
+	"coordinates": [
 		{ "latitude": 44.972000, "longitude": -93.235794},
 		{ "latitude": 44.972000, "longitude": -93.235062},
 		{ "latitude": 44.972330, "longitude": -93.235062},
 		{ "latitude": 44.972330, "longitude": -93.235360},
 		{ "latitude": 44.972658, "longitude": -93.235349}
-	]},
+	],
 	"images": [
 		{ "src": "coffman_yudof_1", "desc": "This door in the Coffman Memorial Union basement leads to the East River Road Garage."},
 		{ "src": "coffman_yudof_2", "desc": "The East River Road Garage has stairs and elevators across these rows of parking. Notice the sign indicating the direction of the elevators."},
