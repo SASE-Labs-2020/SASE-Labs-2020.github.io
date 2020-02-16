@@ -9,9 +9,9 @@
 		{ "latitude": 44.972658, "longitude": -93.235349}
 	],
 	"images": [
-		{ "src": "coffman_yudof_1", "desc": "This door in the Coffman Memorial Union basement leads to the East River Road Garage."},
-		{ "src": "coffman_yudof_2", "desc": "The East River Road Garage has stairs and elevators across these rows of parking. Notice the sign indicating the direction of the elevators."},
-		{ "src": "coffman_yudof_3", "desc": "The East River Road Garage elevators and stairs exit at this point." }
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/coffman_yudof_1.png"}, "desc": "This door in the Coffman Memorial Union basement leads to the East River Road Garage."},
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/coffman_yudof_2.png"}, "desc": "The East River Road Garage has stairs and elevators across these rows of parking. Notice the sign indicating the direction of the elevators."},
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/coffman_yudof_3.png"}, "desc": "The East River Road Garage elevators and stairs exit at this point." }
 	],
 	"instructions": [
 		"Go to the basement floor of Coffman Memorial Union. There are elevators, stairs, and escalators.",
