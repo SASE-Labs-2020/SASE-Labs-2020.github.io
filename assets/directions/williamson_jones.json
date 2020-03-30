@@ -1,0 +1,19 @@
+{
+	"origin": "Williamson Hall",
+	"destination": "Jones Hall",
+	"coordinates": [
+		{ "latitude": 44.978000, "longitude": -93.234900},
+		{ "latitude": 44.9781000, "longitude": -93.235000},
+		{ "latitude": 44.9779000, "longitude": -93.235100},
+		{ "latitude": 44.977900, "longitude": -93.235200}
+	],
+	"images": [
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/williamson_jones.png"}, "desc": "Looking from Williamson, this is the hall to Jones Hall."}
+	],
+	"instructions": [
+		"Go to the second floor of Williamson Hall. Make your way towards the north-most point of the building.",
+		"About 100 feet before the exit to Pleasant Street there's a hall on the left (pictured).",
+		"Enter and take a left, then a right.",
+		"Lastly through a door will be Jones Hall."
+	]
+}

@@ -8,7 +8,7 @@
 	],
 	"images": [
 		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/mcNam_univRmp_1.png"}, "desc": "This is Heritage Hall on level 1. It should be on your right."},
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/mcNam_univRmp_2.png"}, "desc": "This hallway that leads to a pair of elevators should then be on your left."},
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/mcNam_univRmp_2.png"}, "desc": "This hallway that leads to a pair of elevators should then be on your left, there's also stairs."},
 		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/mcNam_univRmp_3.png"}, "desc": "This is the doorway to University Ave Parking Garage" }
 	],
 	"instructions": [
