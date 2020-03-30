@@ -1,0 +1,15 @@
+{
+	"origin": "The Graduate Hotel",
+	"destination": "Washington Ave Parking Ramp",
+	"coordinates": [
+		{ "latitude": 44.974400, "longitude": -93.230000},
+		{ "latitude": 44.974200, "longitude": -93.230500}
+		
+	],
+	
+	"instructions": [
+		"Starting on the second floor of The Graduate Hotel, make your way to north-most point on the west side of the building.",
+		"Going through you should be going through a glass walkway.",
+		"The end of this is Washington Ave Parking Ramp."
+	]
+}
