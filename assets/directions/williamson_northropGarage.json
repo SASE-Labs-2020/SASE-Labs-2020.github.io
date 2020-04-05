@@ -1,0 +1,30 @@
+{
+	"origin": "Williamson Hall",
+	"destination": "Northrop Garage",
+	"coordinates": [
+		{ "latitude": 44.977400, "longitude": -93.234600},
+		{ "latitude": 44.9774000, "longitude": -93.234400},
+		{ "latitude": 44.9771000, "longitude": -93.234900},
+		{ "latitude": 44.977000, "longitude": -93.235000},
+		{ "latitude": 44.976600, "longitude": -93.234800},
+		{ "latitude": 44.976200, "longitude": -93.234800},
+		{ "latitude": 44.976100, "longitude": -93.235000},
+		{ "latitude": 44.975900, "longitude": -93.235000}
+	],
+	"images": [
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/threeWay.png"}, "desc": "This is what the intersection looks like when facing northward."},
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_N3.png"}, "desc":"This is the door exiting from the Northrop Garage area north."},
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_N2.png"}, "desc":"This is the path you came from if coming from Northrop Garage."},
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_N1b.png"}, "desc":"This is the East wall of Northrop garage, it will be on your left."},
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_N1a.png"}, "desc":"This is the West wall of Northrop garage, it will be on your right further away."}
+	],
+	"instructions": [
+		"Go to the second floor of Williamson Hall. Make your way towards the south-most point of the building.",
+		"Enter the tunnel entrance, taking the first left (the right goes outside).",
+		"This will bring you to the first picture, you will be coming from the leftmost path, so you will take a hard right.",
+		"This is a long path, you will curve to the let twice (there won't be other paths, just a door labeled to Northrop).",
+		"At the end is a door, of which is pictured (the view is if you turn around after going through it).",
+		"Going straight from that door and taking a right into where there's a security arm you walk past that, which is pictured if you turned around.",
+		"Taking a right from here, you walk straight until you get to Northrop garage, to the left will be a wall with Morrill hall painted on it, and on the opposite Johnston Hall"
+	]
+}

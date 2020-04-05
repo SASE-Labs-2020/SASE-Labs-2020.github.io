@@ -1,0 +1,18 @@
+{
+	"origin": "Nolte Center",
+	"destination": "Nolte Center Garage",
+	"coordinates": [
+		{ "latitude": 44.977400, "longitude": -93.234300},
+		{ "latitude": 44.9773000, "longitude": -93.234300},
+		{ "latitude": 44.9775000, "longitude": -93.234300}
+	],
+	"images": [
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/threeWay.png"}, "desc": "This is what the intersection looks like when facing northward."}
+	],
+	"instructions": [
+		"Go to Nolte Center level B. Make your way towards the west-most point of the building.",
+		"There should be a tunnel entrance, which leads to an intersection (the first picture).",
+		"You will be coming from the rightmost path, so you will navigate around the wall to get to the center path.",
+		"There will be some stairs, and on the right an entrance to the nolte center garage."
+	]
+}
