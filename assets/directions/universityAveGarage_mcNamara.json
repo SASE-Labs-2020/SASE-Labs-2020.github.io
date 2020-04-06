@@ -1,0 +1,13 @@
+{
+	"origin": "University Ave Parking Garage",
+	"destination": "McNamara Alumni Center",
+	"coordinates": [
+		{ "latitude": 44.975900, "longitude": -93.228200},
+		{ "latitude": 44.975500, "longitude": -93.227900}
+	],
+	"instructions": [
+		"Go to the Level B of University Ave Parking Ramp, the most NE corner. There should be an elevator you may take.",
+		"Follow the straight path through a labelled door.",
+		"After walking for a time (you will go through a study area), you should come to a pair of elevators, take either to level 1"
+	]
+}

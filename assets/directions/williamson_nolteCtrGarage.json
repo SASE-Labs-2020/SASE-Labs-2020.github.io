@@ -1,0 +1,19 @@
+{
+	"origin": "Williamson Hall",
+	"destination": "Nolte Center Center Garage",
+	"coordinates": [
+		{ "latitude": 44.977400, "longitude": -93.234600},
+		{ "latitude": 44.9774000, "longitude": -93.234400},
+		{ "latitude": 44.9775000, "longitude": -93.234300}
+	],
+	"images": [
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/threeWay.png"}, "desc": "This is what the intersection looks like when facing northward."}
+	],
+	"instructions": [
+		"Go to the second floor of Williamson Hall. Make your way towards the south-most point of the building.",
+		"Enter the tunnel entrance, taking the first left (the right goes outside).",
+		"This will bring you to the first picture, you will be coming from the leftmost path, so you will take a left to the pictured center path.",
+		"There will be some stairs, and on the right an entrance to the nolte center garage."
+	]
+}
+

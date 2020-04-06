@@ -1,0 +1,20 @@
+{
+	"origin": "Nolte Center Garage",
+	"destination": "10 Church St",
+	"coordinates": [
+		{ "latitude": 44.9775000, "longitude": -93.234300},
+		{ "latitude": 44.9779000, "longitude": -93.234000},
+		{ "latitude": 44.977700, "longitude": -93.233400},
+		{ "latitude": 44.977800, "longitude": -93.233300}
+	],
+	"images": [
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/nolteCtrGarage_folwell.png"}, "desc": "This the door from Nolte Center Garage to Folwell Hall."},
+		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/nolteCtrGarage_10Church.png"}, "desc": "This the door from Nolte Center Garage to 10 Church st."}
+	],
+	"instructions": [
+		"Go to Nolte Center Garage. Make your way towards the west-most point.",
+		"There should be a door that leads to a short hall with stairs, go right.",
+		"Straight ahead is a door that leads into Folwell Hall, take a right at it.",
+		"On the left after walking to the next wall of the garage is an entrance to 10 Church St"
+	]
+}
