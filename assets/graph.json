@@ -1,0 +1,18 @@
+{
+    "Coffman Memorial Union": {
+        "Mark G. Yudof Hall": 118
+    },
+    "Mark G. Yudof Hall": {
+        "Coffman Memorial Union": 118
+    },
+    "Kolthoff Hall": {
+        "Smith Hall": 22
+    },
+    "Smith Hall": {
+        "Kolthoff Hall": 22,
+        "Walter Library": 22
+    },
+    "Walter Library": {
+        "Smith Hall": 22
+    }
+}

@@ -16,7 +16,7 @@ const path = require('path');
 var route = new Object();
 
 function add_node(filename)
-{ //Adds two nodes, origin and destination, with the distance (m) between them
+{ 
     const data = require('./directions/' + filename);
     var origin = data.origin, destination = data.destination, coordinates = data.coordinates;
 
@@ -38,7 +38,7 @@ function add_node(filename)
     route[destination][origin] = distance;
 }
 
-//tests
+
 
 const isFile = fileName => {
     return fs.lstatSync(fileName).isFile()
@@ -59,7 +59,14 @@ for (var i in directions) {
 }
 
 console.log(route);
-//write file...
+
+fs.writeFile("./graph.json", JSON.stringify(route, null, 4), (err) => {
+    if (err) {
+        console.error(err);
+        return;
+    };
+    console.log("graph.json created");
+});
 
 
 
