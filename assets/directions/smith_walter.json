@@ -2,14 +2,27 @@
 	"origin": "Smith Hall",
 	"destination": "Walter Library",
 	"coordinates": [
-		{ "latitude":44.974776, "longitude": -93.235926 },
-		{ "latitude":44.974976, "longitude": -93.235926}
+		{
+			"latitude": 44.974776,
+			"longitude": -93.235926
+		},
+		{
+			"latitude": 44.974976,
+			"longitude": -93.235926
+		}
 	],
-	"images": [
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/smith_walter_1.png"}, "desc": "The doors to Walter Library"}
-	],
-	"instructions": [
-		"Descend to the basement of Smith Hall.",
-		"The north side of the floor has a set of doors leading to the basement of Walter Library with access to the Wise Owl Cafe and The Toaster."
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/smith_walter_1.png"
+			},
+			"desc": "The doors to Walter Library",
+			"instr": "Descend to the basement of Smith Hall."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "The north side of the floor has a set of doors leading to the basement of Walter Library with access to the Wise Owl Cafe and The Toaster."
+		}
 	]
 }

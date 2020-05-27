@@ -2,33 +2,100 @@
 	"origin": "Nolte Center",
 	"destination": "Morrill Hall",
 	"coordinates": [
-		{"latitude": 44.977400, "longitude": -93.234300},
-		{ "latitude": 44.9773000, "longitude": -93.234300},
-		{ "latitude": 44.9771000, "longitude": -93.234900},
-		{ "latitude": 44.977000, "longitude": -93.235000},
-		{ "latitude": 44.976600, "longitude": -93.234800},
-		{ "latitude": 44.976200, "longitude": -93.234800},
-		{ "latitude": 44.976100, "longitude": -93.235000},
-		{ "latitude": 44.975900, "longitude": -93.235000},
-		{ "latitude": 44.975900, "longitude": -93.234700}
+		{
+			"latitude": 44.9774,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9773,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9771,
+			"longitude": -93.2349
+		},
+		{
+			"latitude": 44.977,
+			"longitude": -93.235
+		},
+		{
+			"latitude": 44.9766,
+			"longitude": -93.2348
+		},
+		{
+			"latitude": 44.9762,
+			"longitude": -93.2348
+		},
+		{
+			"latitude": 44.9761,
+			"longitude": -93.235
+		},
+		{
+			"latitude": 44.9759,
+			"longitude": -93.235
+		},
+		{
+			"latitude": 44.9759,
+			"longitude": -93.2347
+		}
 	],
-	"images": [
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/threeWay.png"}, "desc": "This is what the intersection looks like when facing northward."},
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_N3.png"}, "desc":"This is the door exiting from the Northrop Garage area north."},
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_N2.png"}, "desc":"This is the path you came from if coming from Northrop Garage."},
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_N1b.png"}, "desc":"This is the East wall of Northrop garage, it will be on your left."},
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_morrill1.png"}, "desc":"This is the door you come from when entering Morrill."},
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_morrill2.png"}, "desc":"This is the area you will be in after entering Morrill."}
-	],
-	"instructions": [
-		"Go to Nolte Center level B. Make your way towards the west-most point of the building.",
-		"There should be a tunnel entrance, which leads to an intersection (the first picture).",
-		"You will be coming from the rightmost path, so you will keep going straight.",
-		"This is a long path, you will curve to the let twice (there won't be other paths, just a door labeled to Northrop).",
-		"At the end is a door, of which is pictured (the view is if you turn around after going through it).",
-		"Going straight from that door and taking a right into where there's a security arm you walk past that, which is pictured if you turned around.",
-		"Taking a right from here, you walk straight until you get to Northrop garage, to the left will be a wall with Morrill hall painted on it, and on the opposite Johnston Hall",
-		"Enter the door on the Morrill Hall wall and walk up the stairs through another door",
-		"Past a hallway on our left you will enter an area of Morill with an elevator on your left."
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/threeWay.png"
+			},
+			"desc": "This is what the intersection looks like when facing northward.",
+			"instr": "Go to Nolte Center level B. Make your way towards the west-most point of the building."
+		},
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_N3.png"
+			},
+			"desc": "This is the door exiting from the Northrop Garage area north.",
+			"instr": "There should be a tunnel entrance, which leads to an intersection (the first picture)."
+		},
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_N2.png"
+			},
+			"desc": "This is the path you came from if coming from Northrop Garage.",
+			"instr": "You will be coming from the rightmost path, so you will keep going straight."
+		},
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_N1b.png"
+			},
+			"desc": "This is the East wall of Northrop garage, it will be on your left.",
+			"instr": "This is a long path, you will curve to the let twice (there won't be other paths, just a door labeled to Northrop)."
+		},
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_morrill1.png"
+			},
+			"desc": "This is the door you come from when entering Morrill.",
+			"instr": "At the end is a door, of which is pictured (the view is if you turn around after going through it)."
+		},
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_morrill2.png"
+			},
+			"desc": "This is the area you will be in after entering Morrill.",
+			"instr": "Going straight from that door and taking a right into where there's a security arm you walk past that, which is pictured if you turned around."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Taking a right from here, you walk straight until you get to Northrop garage, to the left will be a wall with Morrill hall painted on it, and on the opposite Johnston Hall"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Enter the door on the Morrill Hall wall and walk up the stairs through another door"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Past a hallway on our left you will enter an area of Morill with an elevator on your left."
+		}
 	]
 }

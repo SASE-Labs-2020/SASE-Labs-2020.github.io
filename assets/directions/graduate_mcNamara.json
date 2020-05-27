@@ -2,17 +2,34 @@
 	"origin": "The Graduate Hotel",
 	"destination": "McNamara Alumni Center",
 	"coordinates": [
-		{ "latitude": 44.974500, "longitude": -93.229400},
-		{ "latitude": 44.974800, "longitude": -93.228200}
-		
+		{
+			"latitude": 44.9745,
+			"longitude": -93.2294
+		},
+		{
+			"latitude": 44.9748,
+			"longitude": -93.2282
+		}
 	],
-	"images": [
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/graduate_mcNamara_1.png"}, "desc": "This is the sign and path leading to The McNamara Alumni Center leading north."},
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/graduate_mcNamara_2.png"}, "desc": "What you will see upon entering McNamara."}
-	],
-	"instructions": [
-		"Starting on the second floor of The Graduate Hotel, make your way to the middle of the north side of the building.",
-		"You should see a sign labelling the path to McNamara Alumni Center.",
-		"This leads to a straight path which you walk until you get to Level B of McNamara where there is an elevator and a staircase on each side."
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/graduate_mcNamara_1.png"
+			},
+			"desc": "This is the sign and path leading to The McNamara Alumni Center leading north.",
+			"instr": "Starting on the second floor of The Graduate Hotel, make your way to the middle of the north side of the building."
+		},
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/graduate_mcNamara_2.png"
+			},
+			"desc": "What you will see upon entering McNamara.",
+			"instr": "You should see a sign labelling the path to McNamara Alumni Center."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "This leads to a straight path which you walk until you get to Level B of McNamara where there is an elevator and a staircase on each side."
+		}
 	]
 }

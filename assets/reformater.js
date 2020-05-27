@@ -2,6 +2,9 @@ const fs = require('fs');
 const path = require('path');
 
 function merge_arrays(images, instructions) {
+    if (!images) {
+        return instructions.map(function(x){ return {src: null, desc: null, intr: x}; });
+    }
     const n = images.length;
     const m = instructions.length;
     var new_array;
@@ -27,12 +30,13 @@ function merge_arrays(images, instructions) {
 }
 
 function rewrite_file(filename) {
-	const fullname = './directions/' + filename
-	const data = require(fullname);
+    const fullname = './directions/' + filename
+    console.log(fullname);
+    const data = require(fullname);
     data.info = merge_arrays(data.images, data.instructions);
     delete data.images;
     delete data.instructions;
-    fs.writeFileSync(fullname, data);
+    fs.writeFileSync(fullname, JSON.stringify(data, null, '\t'));
 }
 
 const isFile = fileName => {
