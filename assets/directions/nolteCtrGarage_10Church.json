@@ -2,19 +2,47 @@
 	"origin": "Nolte Center Garage",
 	"destination": "10 Church St",
 	"coordinates": [
-		{ "latitude": 44.9775000, "longitude": -93.234300},
-		{ "latitude": 44.9779000, "longitude": -93.234000},
-		{ "latitude": 44.977700, "longitude": -93.233400},
-		{ "latitude": 44.977800, "longitude": -93.233300}
+		{
+			"latitude": 44.9775,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9779,
+			"longitude": -93.234
+		},
+		{
+			"latitude": 44.9777,
+			"longitude": -93.2334
+		},
+		{
+			"latitude": 44.9778,
+			"longitude": -93.2333
+		}
 	],
-	"images": [
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/nolteCtrGarage_folwell.png"}, "desc": "This the door from Nolte Center Garage to Folwell Hall."},
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/nolteCtrGarage_10Church.png"}, "desc": "This the door from Nolte Center Garage to 10 Church st."}
-	],
-	"instructions": [
-		"Go to Nolte Center Garage. Make your way towards the west-most point.",
-		"There should be a door that leads to a short hall with stairs, go right.",
-		"Straight ahead is a door that leads into Folwell Hall, take a right at it.",
-		"On the left after walking to the next wall of the garage is an entrance to 10 Church St"
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/nolteCtrGarage_folwell.png"
+			},
+			"desc": "This the door from Nolte Center Garage to Folwell Hall.",
+			"instr": "Go to Nolte Center Garage. Make your way towards the west-most point."
+		},
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/nolteCtrGarage_10Church.png"
+			},
+			"desc": "This the door from Nolte Center Garage to 10 Church st.",
+			"instr": "There should be a door that leads to a short hall with stairs, go right."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Straight ahead is a door that leads into Folwell Hall, take a right at it."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "On the left after walking to the next wall of the garage is an entrance to 10 Church St"
+		}
 	]
 }

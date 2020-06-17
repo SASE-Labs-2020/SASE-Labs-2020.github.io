@@ -2,14 +2,27 @@
 	"origin": "Smith Hall",
 	"destination": "Kolthoff Hall",
 	"coordinates": [
-		{ "latitude": 44.974026, "longitude": -93.235926 },
-		{ "latitude": 44.974222, "longitude": -93.235926 }
+		{
+			"latitude": 44.974026,
+			"longitude": -93.235926
+		},
+		{
+			"latitude": 44.974222,
+			"longitude": -93.235926
+		}
 	],
-	"images": [
-		{ "src": { "uri": "https://sase-labs-2020.github.io/assets/images/smith_kolthoff_1.png"}, "desc": "The doors to Kolthoff Hall"}
-	],
-	"instructions": [
-		"Descend to the basement of Smith Hall.",
-		"The south side of the floor has a set of doors leading down to the first floor of Kolthoff Hall."
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/smith_kolthoff_1.png"
+			},
+			"desc": "The doors to Kolthoff Hall",
+			"instr": "Descend to the basement of Smith Hall."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "The south side of the floor has a set of doors leading down to the first floor of Kolthoff Hall."
+		}
 	]
 }

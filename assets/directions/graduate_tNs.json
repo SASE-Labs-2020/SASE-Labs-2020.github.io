@@ -2,20 +2,41 @@
 	"origin": "The Graduate Hotel",
 	"destination": "Transportation and Safety Building",
 	"coordinates": [
-		{ "latitude": 44.974400, "longitude": -93.230000},
-		{ "latitude": 44.974200, "longitude": -93.230500},
-		{ "latitude": 44.973900, "longitude": -93.230500}
-		
+		{
+			"latitude": 44.9744,
+			"longitude": -93.23
+		},
+		{
+			"latitude": 44.9742,
+			"longitude": -93.2305
+		},
+		{
+			"latitude": 44.9739,
+			"longitude": -93.2305
+		}
 	],
-	
-	"images": [
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/graduate_tNs.png"}, "desc": "Here is the end of the hall leading to the Transportation & Safety Building."}
-	],
-
-	"instructions": [
-		"Starting on the second floor of The Graduate Hotel, make your way to north-most point on the west side of the building.",
-		"Going through you should be going through a glass walkway.",
-		"The end of this is Washington Ave Parking Ramp in front of you, but left there's a long hallway.",
-		"Taking this you get to the second floor of the Transportation & Safety Building."
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/graduate_tNs.png"
+			},
+			"desc": "Here is the end of the hall leading to the Transportation & Safety Building.",
+			"instr": "Starting on the second floor of The Graduate Hotel, make your way to north-most point on the west side of the building."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Going through you should be going through a glass walkway."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "The end of this is Washington Ave Parking Ramp in front of you, but left there's a long hallway."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Taking this you get to the second floor of the Transportation & Safety Building."
+		}
 	]
 }

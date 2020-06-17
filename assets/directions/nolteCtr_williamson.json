@@ -2,18 +2,45 @@
 	"origin": "Nolte Center",
 	"destination": "Williamson Hall",
 	"coordinates": [
-		{ "latitude": 44.977400, "longitude": -93.234300},
-		{ "latitude": 44.9773000, "longitude": -93.234300},
-		{ "latitude": 44.9774000, "longitude": -93.234400},
-		{ "latitude": 44.977400, "longitude": -93.234600}
+		{
+			"latitude": 44.9774,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9773,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9774,
+			"longitude": -93.2344
+		},
+		{
+			"latitude": 44.9774,
+			"longitude": -93.2346
+		}
 	],
-	"images": [
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/threeWay.png"}, "desc": "This is what the intersection looks like when facing northward."}
-	],
-	"instructions": [
-		"Go to Nolte Center level B. Make your way towards the west-most point of the building.",
-		"There should be a tunnel entrance, which leads to an intersection (the first picture).",
-		"You will be coming from the rightmost path, so you will navigate around the wall to get to the leftmost path.",
-		"After following this for a little bit, you will take a slight right."
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/threeWay.png"
+			},
+			"desc": "This is what the intersection looks like when facing northward.",
+			"instr": "Go to Nolte Center level B. Make your way towards the west-most point of the building."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "There should be a tunnel entrance, which leads to an intersection (the first picture)."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "You will be coming from the rightmost path, so you will navigate around the wall to get to the leftmost path."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "After following this for a little bit, you will take a slight right."
+		}
 	]
 }
