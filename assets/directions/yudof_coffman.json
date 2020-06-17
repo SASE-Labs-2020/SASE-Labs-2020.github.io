@@ -2,16 +2,38 @@
 	"origin": "Mark G. Yudof Hall",
 	"destination": "Coffman Memorial Union",
 	"coordinates": [
-		{ "latitude": 44.972011, "longitude":-93.236000},
-		{ "latitude": 44.972498, "longitude":-93.236000},
-		{ "latitude": 44.972498, "longitude":-93.235353},
-		{ "latitude": 44.972616, "longitude":-93.235353}
+		{
+			"latitude": 44.972011,
+			"longitude": -93.236
+		},
+		{
+			"latitude": 44.972498,
+			"longitude": -93.236
+		},
+		{
+			"latitude": 44.972498,
+			"longitude": -93.235353
+		},
+		{
+			"latitude": 44.972616,
+			"longitude": -93.235353
+		}
 	],
-	"images": [
-	],
-	"instructions": [
-		"While there are tunnels between the East River Road Garage and Coffman Union, unfortunately there aren't any between the residential area of Yudof Hall. You will have to walk outside to get to Coffman Union.",
-		"Exit out the front doors and look both ways before crossing Delaware St.",
-		"After crossing the street, turn right, walk up the stairs, and enter the groud floor of Coffman Union."
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "While there are tunnels between the East River Road Garage and Coffman Union, unfortunately there aren't any between the residential area of Yudof Hall. You will have to walk outside to get to Coffman Union."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Exit out the front doors and look both ways before crossing Delaware St."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "After crossing the street, turn right, walk up the stairs, and enter the groud floor of Coffman Union."
+		}
 	]
 }

@@ -2,19 +2,50 @@
 	"origin": "Nolte Center Garage",
 	"destination": "Williamson Hall",
 	"coordinates": [
-		{ "latitude": 44.9775000, "longitude": -93.234300},
-		{ "latitude": 44.9773000, "longitude": -93.234300},
-		{ "latitude": 44.9774000, "longitude": -93.234400},
-		{ "latitude": 44.977400, "longitude": -93.234600}
+		{
+			"latitude": 44.9775,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9773,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9774,
+			"longitude": -93.2344
+		},
+		{
+			"latitude": 44.9774,
+			"longitude": -93.2346
+		}
 	],
-	"images": [
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/threeWay.png"}, "desc": "This is what the intersection looks like when facing northward."}
-	],
-	"instructions": [
-		"Go to Nolte Center Garage. Make your way towards the west-most point.",
-		"There should be a door that leads to a short hall with stairs, go left.",
-		"Through a door this leads to an intersection (the first picture).",
-		"You will be coming from the center path, so you will navigate take a right.",
-		"After following this for a little bit, you will take the right (the left goes outside)"
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/threeWay.png"
+			},
+			"desc": "This is what the intersection looks like when facing northward.",
+			"instr": "Go to Nolte Center Garage. Make your way towards the west-most point."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "There should be a door that leads to a short hall with stairs, go left."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Through a door this leads to an intersection (the first picture)."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "You will be coming from the center path, so you will navigate take a right."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "After following this for a little bit, you will take a slight right"
+		}
 	]
 }

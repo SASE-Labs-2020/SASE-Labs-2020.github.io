@@ -2,14 +2,30 @@
 	"origin": "McNamara Alumni Center",
 	"destination": "The Graduate Hotel",
 	"coordinates": [
-		{ "latitude": 44.974800, "longitude": -93.228200},
-		{ "latitude": 44.974500, "longitude": -93.229400}
-		
+		{
+			"latitude": 44.9748,
+			"longitude": -93.2282
+		},
+		{
+			"latitude": 44.9745,
+			"longitude": -93.2294
+		}
 	],
-	
-	"instructions": [
-		"Starting on the first floor of McNamara, make your way to most south point of the building.",
-		"There is an elevator and stairs to take you to Level B.",
-		"You go into a door to a straight pathway which leads you to the 2nd floor of The Graduate Hotel"
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"intr": "Starting on the first floor of McNamara, make your way to most south point of the building."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"intr": "There is an elevator and stairs to take you to Level B."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"intr": "You go into a door to a straight pathway which leads you to the 2nd floor of The Graduate Hotel"
+		}
 	]
 }

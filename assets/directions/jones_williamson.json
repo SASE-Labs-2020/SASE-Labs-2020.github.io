@@ -2,15 +2,38 @@
 	"origin": "Jones Hall",
 	"destination": "Williamson Hall",
 	"coordinates": [
-		{ "latitude": 44.977900, "longitude": -93.235200},
-		{ "latitude": 44.9779000, "longitude": -93.235100},
-		{ "latitude": 44.9781000, "longitude": -93.235000},
-		{ "latitude": 44.978000, "longitude": -93.234900}
+		{
+			"latitude": 44.9779,
+			"longitude": -93.2352
+		},
+		{
+			"latitude": 44.9779,
+			"longitude": -93.2351
+		},
+		{
+			"latitude": 44.9781,
+			"longitude": -93.235
+		},
+		{
+			"latitude": 44.978,
+			"longitude": -93.2349
+		}
 	],
-	
-	"instructions": [
-		"Go to the level T of Jones Hall and go to the middle of the SE wall.",
-		"There should be a door leading to a path that goes straight and then left.",
-		"Then after walking about 20 feet there should be a doorway on the right leading to Williamson Hall."
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"intr": "Go to the level T of Jones Hall and go to the middle of the SE wall."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"intr": "There should be a door leading to a path that goes straight and then left."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"intr": "Then after walking about 20 feet there should be a doorway on the right leading to Williamson Hall."
+		}
 	]
 }

@@ -2,15 +2,32 @@
 	"origin": "Nolte Center Garage",
 	"destination": "Folwell Hall",
 	"coordinates": [
-		{ "latitude": 44.9775000, "longitude": -93.234300},
-		{ "latitude": 44.9781000, "longitude": -93.233900}
+		{
+			"latitude": 44.9775,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9781,
+			"longitude": -93.2339
+		}
 	],
-	"images": [
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/nolteCtrGarage_folwell.png"}, "desc": "This the door from Nolte Center Garage to Folwell Hall."}
-	],
-	"instructions": [
-		"Go to Nolte Center Garage. Make your way towards the west-most point.",
-		"There should be a door that leads to a short hall with stairs, go right.",
-		"Straight ahead is a door that leads into Folwell Hall."
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/nolteCtrGarage_folwell.png"
+			},
+			"desc": "This the door from Nolte Center Garage to Folwell Hall.",
+			"instr": "Go to Nolte Center Garage. Make your way towards the west-most point."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "There should be a door that leads to a short hall with stairs, go right."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Straight ahead is a door that leads into Folwell Hall."
+		}
 	]
 }

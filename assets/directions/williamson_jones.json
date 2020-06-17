@@ -2,18 +2,45 @@
 	"origin": "Williamson Hall",
 	"destination": "Jones Hall",
 	"coordinates": [
-		{ "latitude": 44.978000, "longitude": -93.234900},
-		{ "latitude": 44.9781000, "longitude": -93.235000},
-		{ "latitude": 44.9779000, "longitude": -93.235100},
-		{ "latitude": 44.977900, "longitude": -93.235200}
+		{
+			"latitude": 44.978,
+			"longitude": -93.2349
+		},
+		{
+			"latitude": 44.9781,
+			"longitude": -93.235
+		},
+		{
+			"latitude": 44.9779,
+			"longitude": -93.2351
+		},
+		{
+			"latitude": 44.9779,
+			"longitude": -93.2352
+		}
 	],
-	"images": [
-		{ "src": {"uri": "https://sase-labs-2020.github.io/assets/images/williamson_jones.png"}, "desc": "Looking from Williamson, this is the hall to Jones Hall."}
-	],
-	"instructions": [
-		"Go to the second floor of Williamson Hall. Make your way towards the north-most point of the building.",
-		"About 100 feet before the exit to Pleasant Street there's a hall on the left (pictured).",
-		"Enter and take a left, then a right.",
-		"Lastly through a door will be Jones Hall."
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/williamson_jones.png"
+			},
+			"desc": "Looking from Williamson, this is the hall to Jones Hall.",
+			"instr": "Go to the second floor of Williamson Hall. Make your way towards the north-most point of the building."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "About 100 feet before the exit to Pleasant Street there's a hall on the left (pictured)."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Enter and take a left, then a right."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Lastly through a door will be Jones Hall."
+		}
 	]
 }
