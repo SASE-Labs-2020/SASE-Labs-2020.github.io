@@ -1,11 +1,8 @@
 {
     "building": "Visitor Ramp",
-    "info": [
+    "info": 
         {
             "university": null
-        },
-        {
             "pubilc": "Public Hours: 24/7 (Always Open)"
         }
-    ]
 }
