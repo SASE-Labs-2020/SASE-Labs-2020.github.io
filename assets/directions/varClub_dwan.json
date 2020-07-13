@@ -1,0 +1,69 @@
+{
+	"origin": "Variety Club Research Center",
+	"destination": "Dwan Variety Club Cardiovascular Research Center Building/Masonic Cancer Research Building",
+	"coordinates": [
+		{
+			"latitude": 44.972011,
+			"longitude": -93.236
+		},
+		{
+			"latitude": 44.972498,
+			"longitude": -93.236
+		},
+		{
+			"latitude": 44.972498,
+			"longitude": -93.235353
+		},
+		{
+			"latitude": 44.972616,
+			"longitude": -93.235353
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "At third floor, head straight and go through door  OR  take stairs to the right"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Enter through the single brown door at the bottom of the stairway"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Go to first floor"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Turn right and walk to the end of the hall"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Enter the doorway and turn (Note: elevators on left and stairs on right)"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Go to third floor"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Once exit the elevator turn right, pass the pulmonary allergy critical care and sleep medicine center, and then turn left  OR  Exit the stairwell and head straight"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Enter the door at the end of the hall"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "You are now on the 3rd floor of Dwan Cardio"
+		}
+	]
+}

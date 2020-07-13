@@ -1,0 +1,41 @@
+{
+	"origin": "Lind Hall",
+	"destination": "Mechanical Engineering",
+	"coordinates": [
+		{ 
+			"latitude": 44.974706, 
+			"longitude": -93.233577
+		},
+		{ 
+			"latitude": 44.975036, 
+			"longitude": -93.233567
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": 
+			"Once you get to the second floor, you should find yourself in a hallway. With your back to the stairs, turn to your right and walk down the hallway in that direction."
+		},
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/lind_meche_1.jpg"
+			},
+			"desc": "Past this set of black doors, you can see a set of doors with a sign above them. Note the Gopher Way sign next to the black doors.",
+			"instr": "You will see a Gopher Way sign with the words 'Mechanical Engineering' on it."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Past that sign, you will see a set of doors with a sign above them that reads 'You are entering: Mechanical Engineering | Level 2'. Walk through those doors."
+		},
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/lind_meche_2.jpg"
+			},
+			"desc": "This set of doors leads to the second level of Mechanical Engineering.",
+			"instr": "You are now on the second level of Mechanical Engineeering!"
+		}
+	]
+}
