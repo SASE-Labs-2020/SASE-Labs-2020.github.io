@@ -5,6 +5,14 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
+  --bodyText: #000000;
+  --bodyBkgd: #e5f5ff;  
+  
+  --jumbotronBkgd: #7DC242;
+  --navbar: #0668B3;
+
+
+  /*Already here*/
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -58,9 +66,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: var(--bodyText);
   text-align: left;
-  background-color: #fff;
+  background-color: var(--bodyBkgd);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -5270,7 +5278,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #e9ecef;
+  background-color: var(--jumbotronBkgd);;
   border-radius: 0.3rem;
 }
 
@@ -6727,7 +6735,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #007bff !important;
+  background-color: var(--navbar) !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
