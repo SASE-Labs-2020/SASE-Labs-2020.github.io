@@ -1,0 +1,31 @@
+{
+	"origin": "Nils Hasselmo Hall",
+	"destination": "Jackson Hall",
+	"coordinates": [
+		{ 
+			"latitude": 44.972931, 
+			"longitude": -93.234462
+		},
+		{ 
+			"latitude": 44.972988, 
+			"longitude": -93.233679
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Take an elevator to 4th floor."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Turn to your right once you got off the elevator and and stay on your right until you see a doorway with a sign 'Jackson building' in front of you."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "You are now on the skyway between Nil Hasselmo Building and Jackson Building. Once pass the skyway, you are on the 4th level of Jackson Building!"
+		}
+	]
+}

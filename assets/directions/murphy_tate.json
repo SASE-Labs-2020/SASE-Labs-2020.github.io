@@ -1,0 +1,36 @@
+{
+	"origin": "Murphy Hall",
+	"destination": "Tate Hall",
+	"coordinates": [
+		{ 
+			"latitude": 44.974494, 
+			"longitude": -93.234170
+		},
+		{ 
+			"latitude": 44.975046, 
+			"longitude": -93.234416
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Find a staircase on floor 1, on the opposite side of the entrance."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Go down the stairs to the Basement"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Once you got out of the stairs, turn to your left and continue to walk straight"
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Now, you are on the basement of Tate Hall!"
+		}
+	]
+}
