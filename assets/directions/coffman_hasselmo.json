@@ -1,0 +1,46 @@
+{
+	"origin": "Coffman Memorial Union",
+	"destination": "Nils Hasselmo Hall",
+	"coordinates": [
+		{
+			"latitude": 44.972812,
+			"longitude": -93.234795
+		},
+		{ 
+			"latitude": 44.972565, 
+			"longitude": -93.234323
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Starting on ground floor of Coffman, turn right once you reached the end of the elevator."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Walk past the TCF office and follow the hallway until you reached a doorway on the right."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "You have entered the gopher tunnel, and turn left and follow the Boynton Health sign."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "You use your U of M card to enter the dooeway and continue to walk straight."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "On your right, you will see a doorway leads to Nils Hasselmo Hall."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "You are now on the basement level of Nils Hasselmo Building!"
+		}
+	]
+}

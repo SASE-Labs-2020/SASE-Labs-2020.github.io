@@ -1,0 +1,31 @@
+{
+	"origin": "Amundson Hall",
+	"destination": "Keller Hall",
+	"coordinates": [
+		{
+			"latitude": 44.973884,
+			"longitude": -93.232553
+		},
+		{
+			"latitude": 44.974169,
+			"longitude": -93.232789
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Take the elevator on the east-most side of the building and go down to floor C."		
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Once you got off the elevator, turn to your right and continue through the tunnel, there will be a few turns."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "This takes you to an elevator, to continue through the Gopher Way, take it to the 4th floor, otherwise you're in Keller!"
+		}
+	]
+}

@@ -5,6 +5,29 @@
     "Mark G. Yudof Hall": {
         "Coffman Memorial Union": 118
     },
+    "The Graduate Hotel": {
+        "McNamara Alumni Center": 100,
+        "Transportation & Safety Building": 78
+    },
+    "McNamara Alumni Center": {
+        "The Graduate Hotel": 100,
+        "University Ave Parking Garage": 50
+    },
+    "Transportation & Safety Building": {
+        "The Graduate Hotel": 78,
+        "The Washington Ave Parking Ramp": 0
+    },
+    "Jones Hall": {
+        "Williamson Hall": 46
+    },
+    "Williamson Hall": {
+        "Jones Hall": 46,
+        "Nolte Center Garage": 52,
+        "Nolte Center": 41,
+        "Morill Hall": 239,
+        "Nolte Center Center Garage": 30,
+        "Northrop Garage": 215
+    },
     "Kolthoff Hall": {
         "Smith Hall": 22
     },
@@ -12,7 +35,48 @@
         "Kolthoff Hall": 22,
         "Walter Library": 22
     },
+    "University Ave Parking Garage": {
+        "McNamara Alumni Center": 50
+    },
+    "Nolte Center Garage": {
+        "10 Church St": 116,
+        "Folwell Hall": 74,
+        "Morrill Hall": 245,
+        "Nolte Center": 33,
+        "Northrop Garage": 221,
+        "Williamson Hall": 52
+    },
+    "10 Church St": {
+        "Nolte Center Garage": 116
+    },
+    "Folwell Hall": {
+        "Nolte Center Garage": 74
+    },
+    "Morrill Hall": {
+        "Nolte Center Garage": 245,
+        "Nolte Center": 234
+    },
+    "Nolte Center": {
+        "Nolte Center Garage": 33,
+        "Morrill Hall": 234,
+        "Northrop Garage": 210,
+        "Williamson Hall": 41
+    },
+    "Northrop Garage": {
+        "Nolte Center Garage": 221,
+        "Nolte Center": 210,
+        "Williamson Hall": 215
+    },
     "Walter Library": {
         "Smith Hall": 22
+    },
+    "The Washington Ave Parking Ramp": {
+        "Transportation & Safety Building": 0
+    },
+    "Morill Hall": {
+        "Williamson Hall": 239
+    },
+    "Nolte Center Center Garage": {
+        "Williamson Hall": 30
     }
 }
