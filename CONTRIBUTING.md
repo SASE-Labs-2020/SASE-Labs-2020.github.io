@@ -2,6 +2,11 @@
 
 Before contributing to this repository, please discuss the change you wish to make via issue or email. If you are sending an email, please mention your GitHub username so you can be added as an outside collaborator.
 
+## Guidelines
+
+* [This map](https://www.pts.umn.edu/sites/pts.umn.edu/files/bikego.pdf) is a helpful reference
+* Please use other paths as reference to ensure straight edges and aligned coordinates.
+
 ## Contact
 
 | Maintainer | Email |

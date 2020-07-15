@@ -1,0 +1,21 @@
+{
+	"origin":"Morrill Hall",
+	"destination":"Johnston Hall",
+	"coordinates": [
+		{
+			"latitude": 44.975866, 
+			"longitude": -93.235926
+		},
+		{
+			"latitude": 44.975866,
+			"longitude": -93.234850
+		}	
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Go through Northrop Garage to enter Johnston Hall"
+		}
+	]
+}
