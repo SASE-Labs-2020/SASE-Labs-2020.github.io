@@ -16,8 +16,8 @@ const argv = yargs
 		}
 	})
 	.example([
-		['node $0 here_there.json -c "[[57.166668, -3.229961], [47.599392, 3.533462]]" -i "[{\'instr\':\'Go there\'}]"', 'Create here_there.json without images'],
-		['node $0 here_there.json -c "[[57.166668, -3.229961], [47.599392, 3.533462]]" -i "[{\'src\':\'https://sase-labs-2020.github.io/assets/images/here_there_1.png\',\'desc\':\'The entrance\',\'instr\':\'Go there\'}]"', 'Create here_there.json with an image']
+		["node $0 here_there.json -c '[[57.166668, -3.229961], [47.599392, 3.533462]]' -i '[{\"instr\":\"Go there\"}]'", 'Create here_there.json without images'],
+		["node $0 here_there.json -c '[[57.166668, -3.229961], [47.599392, 3.533462]]' -i '[{\"src\":\"https://sase-labs-2020.github.io/assets/images/here_there_1.png\",\"desc\":\"The entrance\",\"instr\":\"Go there\"}]'", 'Create here_there.json with an image']
 	])
 	.help()
 	.alias('help', 'h')
@@ -25,8 +25,14 @@ const argv = yargs
 
 var json = new Object();
 var coordinates = JSON.parse(argv.coordinates).map(arr => ({ latitude: arr[0], longitude: arr[1] }));
+console.log(argv.info);
 var info = JSON.parse(argv.info).map(obj => {
-	if (!('src' in obj)) obj.src = null
+	if (!('src' in obj)) {
+		obj.src = null;
+	}
+	else {
+		obj.src = {uri:obj.src};
+	}
 	if (!('desc' in obj)) obj.desc = null
 	return obj;
 });
