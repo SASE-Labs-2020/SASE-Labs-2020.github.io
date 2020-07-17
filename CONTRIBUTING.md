@@ -38,14 +38,14 @@ Options:
 
 Examples:
   node createDirection.js here_there.json   Create here_there.json without
-  -c "[[57.166668, -3.229961], [47.599392,  images
-  3.533462]]" -i "[{'instr':'Go there'}]"
+  -c '[[57.166668, -3.229961], [47.599392,  images
+  3.533462]]' -i '[{"instr":"Go there"}]'
   node createDirection.js here_there.json   Create here_there.json with an image
-  -c "[[57.166668, -3.229961], [47.599392,
-  3.533462]]" -i "[{'src':'https://sase-la
+  -c '[[57.166668, -3.229961], [47.599392,
+  3.533462]]' -i '[{"src":"https://sase-la
   bs-2020.github.io/assets/images/here_the
-  re_1.png','desc':'The
-  entrance','instr':'Go there'}]"
+  re_1.png","desc":"The
+  entrance","instr":"Go there"}]'
 ```
 
 # Credits
