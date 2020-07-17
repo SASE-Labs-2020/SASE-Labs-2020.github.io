@@ -60,20 +60,10 @@ for (var i in directions) {
 
 console.log(route);
 
-fs.writeFile("./graph.json", JSON.stringify(route, null, 4), (err) => {
+fs.writeFile("./graph.json", JSON.stringify(route, null, '\t'), (err) => {
     if (err) {
         console.error(err);
         return;
     };
     console.log("graph.json created");
 });
-
-
-
-
-
-
-
-
-
-
