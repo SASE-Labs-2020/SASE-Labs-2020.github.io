@@ -1,0 +1,21 @@
+{
+	"origin":"Johnston Hall",
+	"destination":"Walter Library",
+	"coordinates": [
+		{
+			"latitude": 44.975866, 
+			"longitude": -93.235926
+		},	
+		{
+			"latitude": 44.975517,
+			"longitude": -93.235926
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Walk the tunnel south to Walter Library"
+		}
+	]
+}

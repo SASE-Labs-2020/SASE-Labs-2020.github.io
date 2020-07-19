@@ -13,12 +13,14 @@
 	"Masonic Cancer Center": "mCC",
 	"McNamara Alumni Center":"mcNamara",
 	"Mechanical Engineering": "mechE",
+	"Smith Hall":"smith",
+	"Nolte Center Garage":"nolteCtrGarage",
+	"10 Church St":"10Church",
+	"Folwell Hall":"folwell",
 	"Morrill Hall":"morill",
 	"Murphy Hall": "murphy",
 	"Nolte Center":"nolteCtr",
-	"Nolte Center Garage":"nolteCtrGarage",
 	"Northrop Garage": "northropGarage",
-	"Smith Hall":"smith",
 	"Tate Laboratory of Physics": "tate",
 	"Transportation and Safety Building":"tNs",
 	"University Ave Parking Ramp":"universityAveRamp",
@@ -26,5 +28,7 @@
 	"Walter Library":"walter",
 	"The Washington Ave Parking Ramp":"washingtonAveRamp",
 	"Williamson Hall":"williamson",
-	"Mark G. Yudof Hall":"yudof"
+	"Mark G. Yudof Hall":"yudof",
+	"Johnston Hall":"johnston",
+	"Mayo Building":"mayoBldg"
 }

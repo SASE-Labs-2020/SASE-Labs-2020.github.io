@@ -24,14 +24,14 @@
 			"src": {
 				"uri": "https://sase-labs-2020.github.io/assets/images/nolteCtrGarage_folwell.png"
 			},
-			"desc": "This the door from Nolte Center Garage to Folwell Hall.",
+			"desc": "This is the door from Nolte Center Garage to Folwell Hall.",
 			"instr": "Go to Nolte Center Garage. Make your way towards the west-most point."
 		},
 		{
 			"src": {
 				"uri": "https://sase-labs-2020.github.io/assets/images/nolteCtrGarage_10Church.png"
 			},
-			"desc": "This the door from Nolte Center Garage to 10 Church st.",
+			"desc": "This is the door from Nolte Center Garage to 10 Church st.",
 			"instr": "There should be a door that leads to a short hall with stairs, go right."
 		},
 		{
