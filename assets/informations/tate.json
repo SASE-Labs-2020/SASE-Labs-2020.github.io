@@ -3,6 +3,7 @@
     "info":
         {
             "university": "University Hours (UCard Required):\nMon: 7:00 AM - 10:00 PM | Tues: 7:00 AM - 10:00 PM | Wed: 7:00 AM - 10:00 PM | Thurs: 7:00 AM - 10:00 PM | Friday: 7:00 AM - 10:00 PM Sat: Closed | Sun: Closed | Holiday: Closed",
-            "pubilc": "Public Hours:\nMon:7:00 AM - 7:00 PM | Tues: 7:00 AM - 7:00 PM | Wed: 7:00 AM - 7:00 PM | Thurs: 7:00 AM - 7:00 PM | Friday: 7:00 AM - 8:30 PM | Sat: Closed | Sun: Closed | Holiday: Closed"
+            "pubilc": "Public Hours:\nMon:7:00 AM - 7:00 PM | Tues: 7:00 AM - 7:00 PM | Wed: 7:00 AM - 7:00 PM | Thurs: 7:00 AM - 7:00 PM | Friday: 7:00 AM - 8:30 PM | Sat: Closed | Sun: Closed | Holiday: Closed",
+            "accessibility": "Accessibility:\nElevators"
         }
 }
