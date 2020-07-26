@@ -81,5 +81,3 @@ Visit the website [here](https://SASE-Labs-2020.github.io).
   * instr: string (instructions/directions corresponding to that image) or null
 
 You can find the latitude and longitude coordinates by right-clicking on Google Maps and selecting "What's here?".
-
-Make sure your [JSON is valid](https://jsonlint.com/?code=).

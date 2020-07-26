@@ -1,0 +1,21 @@
+{
+	"origin": "keller",
+	"destination": "mechE",
+	"coordinates": [
+		{
+			"latitude": 44.974775,
+			"longitude": -93.232887
+		},
+		{
+			"latitude": 44.975071,
+			"longitude": -93.232887
+		}
+	],
+	"info": [
+		{
+			"instr": "The second floor connects the north part of Keller Hall to the south part of Mechanical Engineering.",
+			"src": null,
+			"desc": null
+		}
+	]
+}

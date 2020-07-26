@@ -1,0 +1,25 @@
+{
+	"origin": "10 Church St",
+	"destination": "Nolte Center Garage",
+	"coordinates": [
+		{
+			"latitude": 44.977765, 
+			"longitude": -93.233300
+		},
+		{
+			"latitude": 44.977687, 
+			"longitude": -93.233405
+		},
+		{
+			"latitude": 44.977894, 
+			"longitude": -93.233987
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Go to garage. The right side is west to Folwell. Straight ahead is south to the Nolte Center."
+		}
+	]
+}
