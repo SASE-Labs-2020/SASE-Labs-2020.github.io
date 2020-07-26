@@ -1,0 +1,21 @@
+{
+	"origin": "Keller Hall",
+	"destination": "Amundson Hall",
+	"coordinates": [
+		{
+			"latitude": 44.973884,
+			"longitude": -93.232553
+		},
+		{
+			"latitude": 44.974169,
+			"longitude": -93.232789
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Take the elevator and go down to floor C. The south part of the building will have a tunnel to Amundson Hall."		
+		}
+	]
+}
