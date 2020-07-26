@@ -1,0 +1,21 @@
+{
+	"origin": "Mechanical Engineering",
+	"destination": "Lind Hall",
+	"coordinates": [
+		{ 
+			"latitude": 44.974706, 
+			"longitude": -93.233577
+		},
+		{ 
+			"latitude": 44.975036, 
+			"longitude": -93.233567
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Get to the second floor of Mechanical Engineering and enter the west hallway. Walking south on this hallway leads to a door labelled Lind Hall"
+		}
+	]
+}

@@ -25,7 +25,6 @@ const argv = yargs
 
 var json = new Object();
 var coordinates = JSON.parse(argv.coordinates).map(arr => ({ latitude: arr[0], longitude: arr[1] }));
-console.log(argv.info);
 var info = JSON.parse(argv.info).map(obj => {
 	if (!('src' in obj)) {
 		obj.src = null;

@@ -14,6 +14,10 @@ Before contributing to this repository, please discuss the change you wish to ma
 | Nathaniel  | budij001@umn.edu |
 | Abi        | chiao010@umn.edu |
 
+## Issues
+
+The preferred way of contributing is to [create an issue](https://github.com/SASE-Labs-2020/SASE-Labs-2020.github.io/issues/new). Please respect the template. This requires a GitHub account.
+
 ## Feedback/Contribution Form
 
 To contribute without using GitHub, please submit [this form](https://forms.gle/PUGtoRsrAP3jrcj67) with your feedback on the app and/or additional information on the Gopher Way to add to the app.
