@@ -1,0 +1,26 @@
+{
+	"origin": "The Washington Ave Parking Ramp",
+	"destination": "Transportation and Safety Building",
+	"coordinates": [
+		{
+			"latitude": 44.9739,
+			"longitude": -93.2317
+		},
+		{
+			"latitude": 44.9739,
+			"longitude": -93.2317
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"intr": "Starting on the first floor of the ramp, make your way to southwest corner."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"intr": "There will be an elevator, take it down to 2 and exit."
+		}
+	]
+}
