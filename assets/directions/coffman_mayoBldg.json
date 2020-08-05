@@ -1,0 +1,46 @@
+{
+	"origin":"Coffman Memorial Union",
+	"destination":"Mayo Building",
+	"coordinates": [
+		{
+			"latitude": 44.972799, 
+			"longitude": -93.234784
+		},
+		{
+			"latitude": 44.972799, 
+			"longitude": -93.234642 
+		},
+		{
+			"latitude": 44.972655, 
+			"longitude": -93.234642
+		},
+		{
+			"latitude": 44.972467, 
+			"longitude": -93.234395
+		},
+		{
+			"latitude": 44.972378, 
+			"longitude": -93.233834
+		},
+		{
+			"latitude": 44.972179, 
+			"longitude":-93.233697
+		},
+		{
+			"latitude": 44.972179, 
+			"longitude": -93.233415
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Get to the basement and find the east side of the building. Open the door to the Gopher Way."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "You need a UCard to proceed. Once in the tunnel, keep ahead and follow the signs to the Mayo Building."
+		}
+	]
+}

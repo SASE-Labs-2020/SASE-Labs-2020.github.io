@@ -1,0 +1,9 @@
+{
+    "building": "Mayo Building",
+    "info": 
+        {
+            "university": "University Hours (UCard Required):\nMon: 6:00 AM - 12:00 PM | Tues: 6:00 AM - 12:00 PM | Wed: 6:00 AM - 12:00 PM | Thurs: 6:00 AM - 12:00 PM | Friday: 6:00 AM - 12:00 PM | Sat: 6:00 AM - 12:00 PM | Sun: 6:00 AM - 12:00 PM | Holiday: 7:00 AM - 12:00 PM",
+            "pubilc": "Public Hours:\nMon: 7:00 AM - 7:00 PM | Tues: 7:00 AM - 7:00 PM | Wed: 7:00 AM - 7:00 PM | Thurs: 7:00 AM - 7:00 PM | Friday: 7:00 AM - 7:00 PM | Sat: Closed | Sun: Closed | Holiday: Closed",
+            "accessibility": "Accessibility:\nAccess via east side power door entrance to 3rd floor lobby (U Card required), Access via west side entrance (public - see Public Access section on this page for information on public accessible entrances)\nElevator\nAdapted restrooms"
+        }
+}
