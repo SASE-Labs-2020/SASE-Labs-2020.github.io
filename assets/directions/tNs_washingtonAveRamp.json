@@ -4,23 +4,27 @@
 	"coordinates": [
 		{
 			"latitude": 44.9739,
-			"longitude": -93.2317
+			"longitude": -93.2305
 		},
 		{
-			"latitude": 44.9739,
-			"longitude": -93.2317
+			"latitude": 44.9742,
+			"longitude": -93.2305
 		}
 	],
 	"info": [
 		{
-			"src": null,
-			"desc": null,
-			"intr": "Starting on the second floor of The Transportation and Safety Building, make your way to West-most wall of the building."
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/tNs_graduate_1.png"
+			},
+			"desc": "This is the door from the Transportation & Safety Building.",
+			"instr": "Starting on the second floor of The Transportation and Safety Building, make your way to East-most point on the north side of the building."
 		},
 		{
-			"src": null,
-			"desc": null,
-			"intr": "There will be an elevator, take it down to 1 and exit."
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/tNs_graduate_2.png"
+			},
+			"desc": "This is the hall from the Transportation & Safety building to a glass walkway to the graduate.",
+			"instr": "Walk to the end of this hallway and The Washington Ave Parking Ramp will be on your left."
 		}
 	]
 }

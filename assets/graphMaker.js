@@ -34,8 +34,8 @@ function add_node(filename)
     {
         distance += geolib.getDistance(coordinates[i], coordinates[i+1]);
     }
-    route[origin][destination] = distance;
-    route[destination][origin] = distance;
+    route[origin][destination] = distance + 1;
+    route[destination][origin] = distance + 1;
 }
 
 

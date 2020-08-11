@@ -1,6 +1,6 @@
 {
 	"origin": "Transportation and Safety Building",
-	"destination": "The Graduate Hotel",
+	"destination": "The Washington Ave Parking Ramp",
 	"coordinates": [
 		{
 			"latitude": 44.9739,
@@ -18,24 +18,17 @@
 	"info": [
 		{
 			"src": {
-				"uri": "https://sase-labs-2020.github.io/assets/images/tNs_graduate_1.png"
-			},
-			"desc": "This is the door from the Transportation & Safety Building.",
-			"instr": "Starting on the second floor of The Transportation and Safety Building, make your way to East-most point on the north side of the building."
-		},
-		{
-			"src": {
 				"uri": "https://sase-labs-2020.github.io/assets/images/tNs_graduate_2.png"
 			},
-			"desc": "This is the end of the hall before the glass walkway.",
-			"instr": "There will be a door on your left pictured above connected to a carpeted path (The Washington Ave Parking Ramp will be on your left)."
+			"desc": "This is the hall from the Transportation & Safety building to a glass walkway to the graduate.",
+			"instr": "You should be at the end of this at the entrance of the glass walkway."
 		},
 		{
 			"src": {
 				"uri": "https://sase-labs-2020.github.io/assets/images/tNs_graduate_3.png"
 			},
 			"desc": "You will see this when facing the glass walkway.",
-			"instr": "When it stops going straight, to the right is a glass walkway pictured."
+			"instr": "Go through this glass walkway."
 		},
 		{
 			"src": {
