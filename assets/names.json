@@ -1,5 +1,5 @@
 {
-	"University Ave Parking Garage": "universityAveRamp",
+	"University Ave Parking Ramp": "universityAveRamp",
 	"East River Road Garage": "eastRiverGarage",
 	"Ford Hall": "ford",
 	"Amundson Hall": "amundson",
@@ -10,8 +10,8 @@
 	"Civil Engineering Building": "civilE",
 	"Children Rehabilitation Clinic": "childrenRehabClinic",
 	"Health Science Education Center": "hsec",
-	"Keller hall": "keller",
-	"Lind hall": "lind",
+	"Keller Hall": "keller",
+	"Lind Hall": "lind",
 	"Molecular And Cellular Biology": "mcb",
 	"Malcolm Moos Health Science Tower": "moosTower",
 	"Northrop Memorial Auditorium": "northrop",
