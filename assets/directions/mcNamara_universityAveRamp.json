@@ -30,13 +30,13 @@
 			"src": {
 				"uri": "https://sase-labs-2020.github.io/assets/images/mcNam_univRmp_3.png"
 			},
-			"desc": "This is the doorway to University Ave Parking Garage",
+			"desc": "This is the doorway to University Ave Parking Ramp",
 			"instr": "You will exit into a study area where you will head in a straight path NW"
 		},
 		{
 			"src": null,
 			"desc": null,
-			"instr": "The end is at the doors labelled University Ave Parking Garage"
+			"instr": "The end is at the doors labelled University Ave Parking Ramp"
 		}
 	]
 }
