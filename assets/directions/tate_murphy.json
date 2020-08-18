@@ -1,0 +1,21 @@
+{
+	"origin": "Tate Hall",
+	"destination": "Murphy Hall",
+	"coordinates": [
+		{ 
+			"latitude": 44.974494, 
+			"longitude": -93.234170
+		},
+		{ 
+			"latitude": 44.975046, 
+			"longitude": -93.234416
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Enter the basement and go north to Tate Hall."
+		}
+	]
+}

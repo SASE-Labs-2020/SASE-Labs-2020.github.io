@@ -1,0 +1,25 @@
+{
+	"origin": "Transportation and Safety Building",
+	"destination": "The Graduate Hotel",
+	"coordinates": [
+		{
+			"latitude": 44.9744,
+			"longitude": -93.23
+		},
+		{
+			"latitude": 44.9742,
+			"longitude": -93.2305
+		},
+		{
+			"latitude": 44.9739,
+			"longitude": -93.2305
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Starting on the second floor of The Graduate Hotel, make your way to north-most point on the west side of the building."
+		}
+	]
+}

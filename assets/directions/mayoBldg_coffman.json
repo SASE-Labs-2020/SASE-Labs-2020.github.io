@@ -1,0 +1,41 @@
+{
+	"origin":"Mayo Building",
+	"destination":"Coffman Memorial Union",
+	"coordinates": [
+		{
+			"latitude": 44.972799, 
+			"longitude": -93.234784
+		},
+		{
+			"latitude": 44.972799, 
+			"longitude": -93.234642 
+		},
+		{
+			"latitude": 44.972655, 
+			"longitude": -93.234642
+		},
+		{
+			"latitude": 44.972467, 
+			"longitude": -93.234395
+		},
+		{
+			"latitude": 44.972378, 
+			"longitude": -93.233834
+		},
+		{
+			"latitude": 44.972179, 
+			"longitude":-93.233697
+		},
+		{
+			"latitude": 44.972179, 
+			"longitude": -93.233415
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Follow the signs to Coffman Memorial Union below the ground floor. Open the door to enter the tunnels. This should bring you to the ground floor of the Union."
+		}
+	]
+}

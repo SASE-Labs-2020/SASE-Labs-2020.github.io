@@ -1,0 +1,21 @@
+{
+	"origin": "Jackson Hall",
+	"destination": "Nils Hasselmo Hall",
+	"coordinates": [
+		{ 
+			"latitude": 44.972931, 
+			"longitude": -93.234462
+		},
+		{ 
+			"latitude": 44.972988, 
+			"longitude": -93.233679
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Take the skyway on the fourth floor to Hasselmo Hall."
+		}
+	]
+}

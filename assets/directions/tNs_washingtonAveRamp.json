@@ -1,6 +1,6 @@
 {
 	"origin": "Transportation and Safety Building",
-	"destination": "The Washington Ave Parking Ramp",
+	"destination": "Washington Ave Parking Ramp",
 	"coordinates": [
 		{
 			"latitude": 44.9739,
@@ -24,7 +24,7 @@
 				"uri": "https://sase-labs-2020.github.io/assets/images/tNs_graduate_2.png"
 			},
 			"desc": "This is the hall from the Transportation & Safety building to a glass walkway to the graduate.",
-			"instr": "Walk to the end of this hallway and The Washington Ave Parking Ramp will be on your left."
+			"instr": "Walk to the end of this hallway and the Washington Ave Parking Ramp will be on your left."
 		}
 	]
 }
