@@ -8,13 +8,14 @@
 		"Morrill Hall": 246,
 		"Nolte Center": 34,
 		"Northrop Garage": 222,
-		"Williamson Hall": 53
+		"Williamson Hall": 31
 	},
 	"Amundson Hall": {
 		"Keller Hall": 38
 	},
 	"Keller Hall": {
-		"Amundson Hall": 38
+		"Amundson Hall": 38,
+		"Mechanical Engineering": 34
 	},
 	"Coffman Memorial Union": {
 		"Nils Hasselmo Hall": 47,
@@ -47,12 +48,13 @@
 		"Nils Hasselmo Hall": 63
 	},
 	"Johnston Hall": {
-		"Morill Hall": 86,
-		"Walter Library": 40,
-		"Morrill Hall": 86
+		"Morrill Hall": 86,
+		"Walter Library": 40
 	},
-	"Morill Hall": {
+	"Morrill Hall": {
 		"Johnston Hall": 86,
+		"Nolte Center Garage": 246,
+		"Nolte Center": 235,
 		"Williamson Hall": 240
 	},
 	"Walter Library": {
@@ -64,17 +66,14 @@
 	},
 	"Williamson Hall": {
 		"Jones Hall": 47,
-		"Nolte Center Garage": 53,
+		"Nolte Center Garage": 31,
 		"Nolte Center": 42,
-		"Morill Hall": 240,
-		"Nolte Center Center Garage": 31,
+		"Morrill Hall": 240,
 		"Northrop Garage": 216
 	},
-	"keller": {
-		"mechE": 34
-	},
-	"mechE": {
-		"keller": 34
+	"Mechanical Engineering": {
+		"Keller Hall": 34,
+		"Lind Hall": 38
 	},
 	"Kolthoff Hall": {
 		"Smith Hall": 23
@@ -86,16 +85,8 @@
 	"Lind Hall": {
 		"Mechanical Engineering": 38
 	},
-	"Mechanical Engineering": {
-		"Lind Hall": 38
-	},
 	"University Ave Parking Ramp": {
 		"McNamara Alumni Center": 51
-	},
-	"Morrill Hall": {
-		"Johnston Hall": 86,
-		"Nolte Center Garage": 246,
-		"Nolte Center": 235
 	},
 	"Murphy Hall": {
 		"Tate Laboratory of Physics": 65
@@ -125,8 +116,5 @@
 	},
 	"Masonic Cancer Center": {
 		"Variety Club Research Center": 119
-	},
-	"Nolte Center Center Garage": {
-		"Williamson Hall": 31
 	}
 }
