@@ -1,5 +1,5 @@
 {
-	"origin": "The  Hotel",
+	"origin": "Graduate Hotel",
 	"destination": "Transportation and Safety Building",
 	"coordinates": [
 		{
@@ -31,7 +31,7 @@
 		{
 			"src": null,
 			"desc": null,
-			"instr": "The end of this is Washington Ave Parking Ramp in front of you, but left there's a long hallway."
+			"instr": "The end of this is Washington Avenue Parking Ramp in front of you, but left there's a long hallway."
 		},
 		{
 			"src": null,
