@@ -43,13 +43,9 @@
 		"Graduate Hotel": 101,
 		"University Ave Parking Ramp": 51
 	},
-	"The  Hotel": {
-		"Transportation and Safety Building": 79
-	},
 	"Transportation and Safety Building": {
-		"The  Hotel": 79,
 		"Graduate Hotel": 79,
-		"Washington Ave Parking Ramp": 1
+		"Washington Avenue Parking Ramp": 1
 	},
 	"Jackson Hall": {
 		"Hasselmo Hall": 63
@@ -118,7 +114,7 @@
 		"Nolte Center": 211,
 		"Williamson Hall": 216
 	},
-	"Washington Ave Parking Ramp": {
+	"Washington Avenue Parking Ramp": {
 		"Transportation and Safety Building": 1
 	}
 }
