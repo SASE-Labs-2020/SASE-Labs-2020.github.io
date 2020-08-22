@@ -1,5 +1,9 @@
 {
     "building": "Rapson Hall",
+    "location": {
+        "latitude":  44.976226, 
+        "longitude": -93.233222 
+    },
     "info": 
         {
             "university": "University Hours (UCard Required):\nMon: 6:00 AM - 10:00 PM | Tues: 6:00 AM - 10:00 PM | Wed: 6:00 AM - 10:00 PM | Thurs: 6:00 AM - 10:00 PM | Friday: 6:00 AM - 10:00 PM | Sat: 7:00 AM - 5:00 PM | Sun: 12:45 AM - 5:00 PM | Holiday: Closed",
