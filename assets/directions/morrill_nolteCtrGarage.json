@@ -1,0 +1,49 @@
+{
+	"origin": "Morrill Hall",
+	"destination": "Nolte Center Garage",
+	"coordinates": [
+		{
+			"latitude": 44.9775,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9773,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9771,
+			"longitude": -93.2349
+		},
+		{
+			"latitude": 44.977,
+			"longitude": -93.235
+		},
+		{
+			"latitude": 44.9766,
+			"longitude": -93.2348
+		},
+		{
+			"latitude": 44.9762,
+			"longitude": -93.2348
+		},
+		{
+			"latitude": 44.9761,
+			"longitude": -93.235
+		},
+		{
+			"latitude": 44.9759,
+			"longitude": -93.235
+		},
+		{
+			"latitude": 44.9759,
+			"longitude": -93.2347
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Enter the Northrop Garage. Follow the signs to Morrill Hall through the tunnels."
+		}
+	]
+}

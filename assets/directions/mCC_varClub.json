@@ -1,0 +1,29 @@
+{
+	"origin": "Masonic Cancer Center",
+	"destination": "Variety Club Research Center",
+	"coordinates": [
+		{
+			"latitude": 44.972011,
+			"longitude": -93.236
+		},
+		{
+			"latitude": 44.972498,
+			"longitude": -93.236
+		},
+		{
+			"latitude": 44.972498,
+			"longitude": -93.235353
+		},
+		{
+			"latitude": 44.972616,
+			"longitude": -93.235353
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Go to the first floor and follow the signs to the Variety Club Research Center."
+		}
+	]
+}

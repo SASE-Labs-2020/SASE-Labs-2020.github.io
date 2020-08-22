@@ -1,5 +1,9 @@
 {
     "building": "Nolte Center Garage",
+    "location": {
+        "latitude":  44.977427, 
+        "longitude": -93.233364 
+    },
     "info": 
         {
             "university": "Public Hours: 24/7",

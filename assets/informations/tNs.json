@@ -1,5 +1,9 @@
 {
     "building": "Transportation and Safety Building",
+    "location": {
+        "latitude":  44.973887, 
+        "longitude": -93.230945 
+    },
     "info":
         {
             "university": null,

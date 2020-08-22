@@ -1,5 +1,9 @@
 {
     "building": "Children Rehabilitation Clinic",
+    "location": {
+        "latitude":  44.971567, 
+        "longitude": -93.234155 
+    },
     "info":
         {
             "university": null,

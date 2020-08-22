@@ -1,5 +1,9 @@
 {
     "building": "Murphy Hall",
+    "location": {
+        "latitude":  44.974492, 
+        "longitude": -93.234238 
+    },
     "info": 
         {
             "university": "University Hours (UCard Required):\nMon: 8:00 AM - 8:00 PM | Tues: 8:00 AM - 8:00 PM | Wed: 8:00 AM - 8:00 PM | Thurs: 8:00 AM - 8:00 PM | Friday: 8:00 AM - 5:00 PM | Sat: Closed | Sun: Closed | Holiday: Closed",

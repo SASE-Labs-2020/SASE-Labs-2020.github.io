@@ -1,5 +1,9 @@
 {
     "building": "Civil Engineering Building",
+    "location": {
+        "latitude":  44.976191, 
+        "longitude": -93.231467 
+    },
     "info": 
         {
             "university": "University Hours (UCard Required):\nMon: 6:00 AM - 10:00 PM | Tues: 6:00 AM - 10:00 PM | Wed: 6:00 AM - 10:00 PM | Thurs: 6:00 AM - 10:00 PM | Friday: Sat: 6:00 AM - 10:00 PM | Sun: 6:00 AM - 10:00 PM | Holiday: 6:00 AM - 10:00 PM",

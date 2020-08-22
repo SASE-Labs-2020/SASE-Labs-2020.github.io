@@ -1,5 +1,9 @@
 {
     "building": "Variety Club Research Center",
+    "location": {
+        "latitude":  44.971266, 
+        "longitude": -93.233706 
+    },
     "info":
     {
         "university": "University Hours (UCard Required):\nMon: 6:00 AM - 12:00 PM | Tues: 6:00 AM - 12:00 PM | Wed: 6:00 AM - 12:00 PM | Thurs: 6:00 AM - 12:00 PM | Friday: 6:00 AM - 12:00 PM | Sat: 6:00 AM - 12:00 PM | Sun: 6:00 AM - 12:00 PM | Holiday: Closed",

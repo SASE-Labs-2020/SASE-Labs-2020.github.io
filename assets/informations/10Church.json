@@ -1,10 +1,13 @@
 {
     "building": "10 Church St",
+    "location": {
+        "latitude": 44.978070, 
+        "longitude": -93.233516 
+    },
     "info": 
         {
             "university": "University Hours (UCard Required):\nMon: 6:00 AM - 10:00 PM | Tues: 6:00 AM - 10:00 PM | Wed: 6:00 AM - 10:00 PM | Thurs: 6:00 AM - 10:00 PM | Fri: 6:00 AM - 10:00 PM | Sat: Closed | Sun: Closed | Holiday: Closed",
             "public": "Public Hours:\nMon: 7:00 AM - 7:00 PM | Tues: 7:00 AM - 7:00 PM | Wed: 7:00 AM - 7:00 PM | Thurs: 7:00 AM - 7:00 PM | Fri: 7:00 AM - 7:00 PM | Sat: Closed | Sun: Closed | Holiday: Closed",
             "accessibility": "Accessibility:\nFully Accessible"
-
         }
 }

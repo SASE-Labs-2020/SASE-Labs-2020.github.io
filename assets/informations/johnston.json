@@ -1,5 +1,9 @@
 {
     "building": "Johnston Hall",
+    "location": {
+        "latitude":  44.975877, 
+        "longitude": -93.236249 
+    },
     "info": 
         {
             "university": "University Hours (UCard Required):\nMon: 6:00 AM - 6:00 PM | Tues: 6:00 AM - 6:00 PM | Wed: 6:00 AM - 6:00 PM | Thurs: 6:00 AM - 6:00 PM | Friday: 6:00 AM - 6:00 PM | Sat: Closed | Sun: Closed | Holiday: Closed",

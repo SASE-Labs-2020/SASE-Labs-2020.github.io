@@ -1,0 +1,21 @@
+{
+	"origin": "Walter Library",
+	"destination": "Smith Hall",
+	"coordinates": [
+		{
+			"latitude": 44.974776,
+			"longitude": -93.235926
+		},
+		{
+			"latitude": 44.974976,
+			"longitude": -93.235926
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Descend to the basement of Walter Library. This floor has the Toaster. The right side has a tunnel to Smith Hall."
+		}
+	]
+}

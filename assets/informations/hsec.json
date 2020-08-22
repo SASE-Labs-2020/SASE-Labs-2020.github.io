@@ -1,5 +1,9 @@
 {
     "building": "Health Science Education Center",
+    "location": {
+        "latitude":  44.971895, 
+        "longitude": -93.230683 
+    },
     "info": 
         {
             "university": "University Hours (UCard Required):\nMon: 6:00 AM - 12:00 AM | Tues: 6:00 AM - 12:00 AM | Wed: 6:00 AM - 12:00 AM | Thurs: 6:00 AM - 12:00 AM | Friday: 6:00 AM - 12:00 AM | Sat: 6:00 AM - 12:00 AM | Sun: 6:00 AM - 12:00 AM | Holiday: 6:00 AM - 12:00 AM",

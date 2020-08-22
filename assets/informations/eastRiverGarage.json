@@ -1,5 +1,9 @@
 {
     "building": "East River Road Garage",
+    "location": {
+        "latitude": 44.971886, 
+        "longitude": -93.234941 
+    },
     "info": 
         {
             "university": "Public Hours: 24/7",

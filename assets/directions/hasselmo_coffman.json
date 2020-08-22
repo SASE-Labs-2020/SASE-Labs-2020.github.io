@@ -1,0 +1,21 @@
+{
+	"origin": "Hasselmo Hall",
+	"destination": "Coffman Memorial Union",
+	"coordinates": [
+		{
+			"latitude": 44.972812,
+			"longitude": -93.234795
+		},
+		{ 
+			"latitude": 44.972565, 
+			"longitude": -93.234323
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Go to the basement of Hasselmo Hall. There should be a doorway with a sign to Coffman Memorial Union. Follow it to the ground floor of the Union."
+		}
+	]
+}
