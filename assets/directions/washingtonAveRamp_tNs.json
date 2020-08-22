@@ -15,12 +15,12 @@
 		{
 			"src": null,
 			"desc": null,
-			"intr": "Starting on the first floor of the ramp, make your way to southwest corner."
+			"instr": "Starting on the first floor of the ramp, make your way to southwest corner."
 		},
 		{
 			"src": null,
 			"desc": null,
-			"intr": "There will be an elevator, take it down to 2 and exit."
+			"instr": "There will be an elevator, take it down to 2 and exit."
 		}
 	]
 }
