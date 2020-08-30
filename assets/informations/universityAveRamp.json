@@ -1,5 +1,9 @@
 {
     "building": "University Avenue Parking Ramp",
+    "location": {
+        "latitude":  44.975908, 
+        "longitude": -93.228591 
+    },
     "info":
         {
             "university": "Public Hours: 24/7",

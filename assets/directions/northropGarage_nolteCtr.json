@@ -1,0 +1,45 @@
+{
+	"origin": "Northrop Garage",
+	"destination": "Nolte Center",
+	"coordinates": [
+		{
+			"latitude": 44.9774,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9773,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9771,
+			"longitude": -93.2349
+		},
+		{
+			"latitude": 44.977,
+			"longitude": -93.235
+		},
+		{
+			"latitude": 44.9766,
+			"longitude": -93.2348
+		},
+		{
+			"latitude": 44.9762,
+			"longitude": -93.2348
+		},
+		{
+			"latitude": 44.9761,
+			"longitude": -93.235
+		},
+		{
+			"latitude": 44.9759,
+			"longitude": -93.235
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Follow the signs to Nolte Center."
+		}
+	]
+}

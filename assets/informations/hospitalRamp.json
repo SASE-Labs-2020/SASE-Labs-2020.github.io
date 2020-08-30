@@ -1,5 +1,9 @@
 {
     "building": "Hospital Patients/Visitor Ramp",
+    "location": {
+        "latitude":  44.972803, 
+        "longitude": -93.229389 
+    },
     "info":
         {
             "university": null,

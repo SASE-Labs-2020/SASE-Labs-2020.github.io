@@ -1,5 +1,9 @@
 {
     "building": "Coffman Memorial Union",
+    "location": {
+        "latitude":  44.972951, 
+        "longitude": -93.235341 
+    },
     "info":
         {
             "university": "University Hours (UCard Required):\nMon: 6::55 AM - 11:00 PM | Tues: 6::55 AM - 11:00 PM | Wed: 6::55 AM - 11:00 PM | Thurs: 6:55 AM - 1:00 AM | Fri:6:55 AM - 2:00 AM | Sat: 6:55 AM - 2:00 AM | Sun: 11:55 AM - 11:00 PM | Holidays: Closed",

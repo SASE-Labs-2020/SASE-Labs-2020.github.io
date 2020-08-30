@@ -1,0 +1,21 @@
+{
+	"origin": "Folwell Hall",
+	"destination": "Nolte Center Garage",
+	"coordinates": [
+		{
+			"latitude": 44.9775,
+			"longitude": -93.2343
+		},
+		{
+			"latitude": 44.9781,
+			"longitude": -93.2339
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Go to lowest floor. On the south end is a door. Enter and walk through the short hall. This is the Nolte Center Garage."
+		}
+	]
+}

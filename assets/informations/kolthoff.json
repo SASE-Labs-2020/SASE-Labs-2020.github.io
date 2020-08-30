@@ -1,5 +1,9 @@
 {
     "building": "Kolthoff Hall",
+    "location": {
+        "latitude":  44.973919, 
+        "longitude": -93.236210 
+    },
     "info": 
         {
             "university": "University Hours (UCard Required):\nMon: 6:00 AM - 10:00 PM | Tues: 6:00 AM - 10:00 PM | Wed: 6:00 AM - 10:00 PM | Thurs: 6:00 AM - 10:00 PM | Friday: 6:00 AM - 6:00 PM | Sat: Closed | Sun: Closed| Holiday: Closed",

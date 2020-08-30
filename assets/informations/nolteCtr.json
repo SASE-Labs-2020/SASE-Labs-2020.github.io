@@ -1,5 +1,9 @@
 {
     "building": "Nolte Center",
+    "location": {
+        "latitude":  44.977180, 
+        "longitude": -93.233697 
+    },
     "info": 
         {
             "university": "University Hours (UCard Required):\nMon: 6:00 AM - 10:00 PM | Tues: 6:00 AM - 10:00 PM | Wed: 6:00 AM - 10:00 PM | Thurs: 6:00 AM - 10:00 PM | Friday: 6:00 AM - 10:00 PM | Sat: Closed | Sun: Closed | Holiday: Closed",

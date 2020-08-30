@@ -3,7 +3,7 @@ const path = require('path');
 
 function merge_arrays(images, instructions) {
     if (!images) {
-        return instructions.map(function(x){ return {src: null, desc: null, intr: x}; });
+        return instructions.map(function(x){ return {src: null, desc: null, instr: x}; });
     }
     const n = images.length;
     const m = instructions.length;

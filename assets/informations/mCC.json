@@ -1,5 +1,9 @@
 {
     "building": "Masonic Cancer Center",
+    "location": {
+        "latitude":  44.971128, 
+        "longitude": -93.232651 
+    },
     "info":
         {
             "university": null,

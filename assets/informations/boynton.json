@@ -1,5 +1,9 @@
 {
     "building": "Boynton Health",
+    "location": {
+        "latitude":  44.972201, 
+        "longitude": -93.234702 
+    },
     "info": 
         {
             "university": null,

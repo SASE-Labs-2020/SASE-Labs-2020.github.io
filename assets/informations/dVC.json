@@ -1,5 +1,9 @@
 {
     "building": "Dwan Variety Club Cardiovascular Research Center Building/Masonic Cancer Research Building",
+    "location": {
+        "latitude":  44.971075, 
+        "longitude": -93.232583 
+    },
     "info": 
         {
             "university": "University Hours (UCard Required):\nMon: 6:00 AM - 12:00 AM | Tues: 6:00 AM - 12:00 AM | Wed: 6:00 AM - 12:00 AM | Thurs: 6:00 AM - 12:00 AM | Friday: 6:00 AM - 12:00 AM | Sat: 6:00 AM - 12:00 AM | Sun: 9:00 AM - 6:00 PM | Holiday: Closed",

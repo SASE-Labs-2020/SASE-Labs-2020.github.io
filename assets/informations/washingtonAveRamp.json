@@ -1,5 +1,9 @@
 {
-    "building": "The Washington Ave Parking Ramp",
+    "building": "Washington Avenue Parking Ramp",
+    "location": {
+        "latitude":  44.974388, 
+        "longitude": -93.231141 
+    },
     "info":
         {
             "university": "Public Hours: 24/7",
