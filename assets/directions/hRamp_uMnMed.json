@@ -1,0 +1,43 @@
+{
+	"origin": "Hospital Ramp",
+	"destination": "University of Minnesota Medical Center",
+	"coordinates": [
+		{
+			"latitude": 44.9727,
+			"longitude": -93.2298
+		},
+		{
+			"latitude": 44.9726,
+			"longitude": -93.2298
+		},
+		{
+			"latitude": 44.9724,
+			"longitude": -93.2303
+		},
+		{
+			"latitude": 44.9717,
+			"longitude": -93.2303
+		},
+		{
+			"latitude": 44.9713,
+			"longitude": -93.2307
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "If you're not on the lowest of the ramp, use the elevator in the southwest corner of the building. Once on the lowest floor, head southwest through the tunnels. The tunnels will turn left to go south before you hit an intersection."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "When you get to the intersection, you will have the option to go straight or right, go straight. Keep going until you reach an entryway."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Go through and you'll be on the lowest floor of The UMn Medical Center."
+		}
+	]
+}
