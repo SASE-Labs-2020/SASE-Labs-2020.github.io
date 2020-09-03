@@ -1,0 +1,35 @@
+{
+	"origin": "Murphy Hall",
+	"destination": "Vincent Hall",
+	"coordinates": [
+		{ 
+			"latitude": 44.9745, 
+			"longitude": -93.23415
+		},
+		{ 
+			"latitude": 44.9743, 
+			"longitude": -93.23415
+		},
+		{ 
+			"latitude": 44.9743, 
+			"longitude": -93.2346
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Find a staircase/elevator and head to the 2nd floor. Head to the southern side of the building."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "At the end on the west side of the building is a walkway. Walk through."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "You are now on the 2nd floor of Vincent Hall."
+		}
+	]
+}

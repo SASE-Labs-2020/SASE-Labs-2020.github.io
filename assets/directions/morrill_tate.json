@@ -1,0 +1,46 @@
+{
+	"origin": "Morrill Hall",
+	"destination": "Tate Lab",
+	"coordinates": [
+		{
+			"latitude": 44.9759,
+			"longitude": -93.2345
+		},
+		{
+			"latitude": 44.9757,
+			"longitude": -93.2345
+		},
+		{
+			"latitude": 44.9757,
+			"longitude": -93.2348
+		},
+		{
+			"latitude": 44.9757,
+			"longitude": -93.2348
+		},
+		{
+			"latitude": 44.9755,
+			"longitude": -93.2348
+		},
+		{
+			"latitude": 44.9755,
+			"longitude": -93.2342
+		},
+		{
+			"latitude": 44.9753,
+			"longitude": -93.2342
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "On the lowest floor of Morrill, head south through the tunnels."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "The tunnel will turn right then left (no other options). Then you'll be in Tate Lab"
+		}
+	]
+}

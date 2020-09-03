@@ -1,0 +1,35 @@
+{
+	"origin": "Molecular And Cellular Biology",
+	"destination": "Moos Tower",
+	"coordinates": [
+		{ 
+			"latitude": 44.9730, 
+			"longitude": -93.2323
+		},
+		{ 
+			"latitude": 44.9731, 
+			"longitude": -93.2323
+		},
+		{ 
+			"latitude": 44.9731, 
+			"longitude": -93.2316
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "If you are not there yet, go to the fourth floor of Molecular and Cellular Biology (there's an elevator in the northeast corner of the building)."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Head to the east wall of the fourth floor. There should be a skyway heading east, take it."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Through there will be the fifth floor of Moos Tower."
+		}
+	]
+}

@@ -1,29 +1,30 @@
 {
-	"origin": "Masonic Cancer Center",
+	"origin": "Dwan/Masonic Cancer Center",
 	"destination": "Variety Club Research Center",
 	"coordinates": [
 		{
-			"latitude": 44.972011,
-			"longitude": -93.236
+			"latitude": 44.9712,
+			"longitude": -93.2326
 		},
 		{
-			"latitude": 44.972498,
-			"longitude": -93.236
+			"latitude": 44.9710,
+			"longitude": -93.2326
 		},
 		{
-			"latitude": 44.972498,
-			"longitude": -93.235353
-		},
-		{
-			"latitude": 44.972616,
-			"longitude": -93.235353
+			"latitude": 44.97105,
+			"longitude": -93.2330
 		}
 	],
 	"info": [
 		{
 			"src": null,
 			"desc": null,
-			"instr": "Go to the first floor and follow the signs to the Variety Club Research Center."
+			"instr": "Go to the third floor and then to the southwest corner."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Go through the west heading skyway, and you'll be on the third floor of the Variety Club Research Center."
 		}
 	]
 }

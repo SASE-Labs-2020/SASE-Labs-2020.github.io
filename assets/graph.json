@@ -17,21 +17,6 @@
 		"Amundson Hall": 38,
 		"Mechanical Engineering": 34
 	},
-	"Coffman Memorial Union": {
-		"Hasselmo Hall": 47,
-		"Mayo Building": 149,
-		"Yudof Hall": 119
-	},
-	"Hasselmo Hall": {
-		"Coffman Memorial Union": 47,
-		"Jackson Hall": 63
-	},
-	"Mayo Building": {
-		"Coffman Memorial Union": 149
-	},
-	"Yudof Hall": {
-		"Coffman Memorial Union": 119
-	},
 	"Folwell Hall": {
 		"Nolte Center Garage": 75
 	},
@@ -47,8 +32,34 @@
 		"Graduate Hotel": 79,
 		"Washington Avenue Parking Ramp": 1
 	},
+	"Hasselmo Hall": {
+		"Jackson Hall": 41,
+		"Memorial Union": 47
+	},
 	"Jackson Hall": {
-		"Hasselmo Hall": 63
+		"Hasselmo Hall": 41,
+		"Molecular And Cellular Biology": 96
+	},
+	"Memorial Union": {
+		"Hasselmo Hall": 47,
+		"Mayo Building": 149,
+		"Yudof Hall": 119
+	},
+	"Hospital Ramp": {
+		"Diehl Hall": 200,
+		"University of Minnesota Medical Center": 190
+	},
+	"Diehl Hall": {
+		"Hospital Ramp": 200
+	},
+	"University of Minnesota Medical Center": {
+		"Hospital Ramp": 190,
+		"Dwan/Masonic Cancer Center": 99
+	},
+	"Molecular And Cellular Biology": {
+		"Jackson Hall": 96,
+		"Mayo Auditorium": 34,
+		"Moos Tower": 67
 	},
 	"Johnston Hall": {
 		"Morrill Hall": 86,
@@ -58,6 +69,9 @@
 		"Johnston Hall": 86,
 		"Nolte Center": 235,
 		"Nolte Center Garage": 246,
+		"Northrop Memorial Auditorium": 98,
+		"Northrop Garage": 71,
+		"Tate Lab": 138,
 		"Williamson Hall": 240
 	},
 	"Walter Library": {
@@ -88,11 +102,23 @@
 	"Lind Hall": {
 		"Mechanical Engineering": 38
 	},
-	"Masonic Cancer Center": {
+	"Mayo Building": {
+		"Memorial Union": 149,
+		"Dwan/Masonic Cancer Center": 89
+	},
+	"Mayo Auditorium": {
+		"Molecular And Cellular Biology": 34
+	},
+	"Moos Tower": {
+		"Molecular And Cellular Biology": 67
+	},
+	"Dwan/Masonic Cancer Center": {
+		"Mayo Building": 89,
+		"University of Minnesota Medical Center": 99,
 		"Variety Club Research Center": 119
 	},
 	"Variety Club Research Center": {
-		"Masonic Cancer Center": 119
+		"Dwan/Masonic Cancer Center": 119
 	},
 	"University Ave Parking Ramp": {
 		"McNamara Alumni Center": 51
@@ -103,18 +129,34 @@
 		"Northrop Garage": 211,
 		"Williamson Hall": 42
 	},
-	"Murphy Hall": {
-		"Tate Hall": 65
-	},
-	"Tate Hall": {
-		"Murphy Hall": 65
+	"Northrop Memorial Auditorium": {
+		"Morrill Hall": 98
 	},
 	"Northrop Garage": {
+		"Morrill Hall": 71,
 		"Nolte Center Garage": 222,
 		"Nolte Center": 211,
 		"Williamson Hall": 216
 	},
+	"Tate Lab": {
+		"Morrill Hall": 138,
+		"Murphy Hall": 94
+	},
+	"Murphy Hall": {
+		"Ford Hall": 64,
+		"Tate Lab": 94,
+		"Vincent Hall": 58
+	},
+	"Ford Hall": {
+		"Murphy Hall": 64
+	},
+	"Vincent Hall": {
+		"Murphy Hall": 58
+	},
 	"Washington Avenue Parking Ramp": {
 		"Transportation and Safety Building": 1
+	},
+	"Yudof Hall": {
+		"Memorial Union": 119
 	}
 }

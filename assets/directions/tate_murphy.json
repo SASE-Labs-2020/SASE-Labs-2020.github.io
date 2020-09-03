@@ -2,20 +2,33 @@
 	"origin": "Tate Lab",
 	"destination": "Murphy Hall",
 	"coordinates": [
-		{ 
-			"latitude": 44.974494, 
-			"longitude": -93.234170
+		{
+			"latitude": 44.9753,
+			"longitude": -93.2342
 		},
 		{ 
-			"latitude": 44.975046, 
-			"longitude": -93.234416
+			"latitude": 44.9747, 
+			"longitude": -93.2342
+		},
+		{ 
+			"latitude": 44.9747, 
+			"longitude": -93.23415
+		},
+		{ 
+			"latitude": 44.9745, 
+			"longitude": -93.23415
 		}
 	],
 	"info": [
 		{
 			"src": null,
 			"desc": null,
-			"instr": "Enter the basement and go north to Tate Hall."
+			"instr": "Take the elevator on the east side of Tate Lab down to the tunnels. Head south through them until you reach the next building."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Take the elevator or stairs up to get to Murphy Hall."
 		}
 	]
 }

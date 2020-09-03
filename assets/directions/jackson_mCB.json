@@ -1,0 +1,30 @@
+{
+	"origin": "Jackson Hall",
+	"destination": "Molecular And Cellular Biology",
+	"coordinates": [
+		{ 
+			"latitude": 44.9730, 
+			"longitude": -93.2335
+		},
+		{ 
+			"latitude": 44.9730, 
+			"longitude": -93.2333
+		},
+		{ 
+			"latitude": 44.9730, 
+			"longitude": -93.2323
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "From the southern-most section of Jackson Hall, take the skyway on the fourth floor heading east."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Through there will be the fourth floor of Molecular and Cellular Biology."
+		}
+	]
+}

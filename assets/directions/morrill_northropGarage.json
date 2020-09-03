@@ -1,0 +1,39 @@
+{
+	"origin": "Morrill Hall",
+	"destination": "Northrop Garage",
+	"coordinates": [
+		{
+			"latitude": 44.9759,
+			"longitude": -93.2345
+		},
+		{
+			"latitude": 44.9759,
+			"longitude": -93.2349
+		},
+		{
+			"latitude": 44.9759,
+			"longitude": -93.2354
+		}
+	],
+	"info": [
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_morrill2.png"
+			},
+			"desc": "This is the room in Morril Hall you should be in.",
+			"instr": "Go to the ground floor of Morrill Hall. Make your way towards the west-most point wall of the building."
+		},
+		{
+			"src": {
+				"uri": "https://sase-labs-2020.github.io/assets/images/northropGarage_morrill1.png"
+			},
+			"desc": "This is the doorway to Northrop Garage.",
+			"instr": "Heading west there's a hallway. Straight ahead is a door with a sign going into Northrop Garage. Go through it."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Through there you'll be in Northrop Garage."
+		}
+	]
+}

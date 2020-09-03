@@ -1,0 +1,52 @@
+{
+	"origin": "Murphy Hall",
+	"destination": "Ford Hall",
+	"coordinates": [
+		{ 
+			"latitude": 44.9745, 
+			"longitude": -93.23415
+		},
+		{ 
+			"latitude": 44.9743, 
+			"longitude": -93.23415
+		},
+		{ 
+			"latitude": 44.9743, 
+			"longitude": -93.2341
+		},
+		{ 
+			"latitude": 44.9741, 
+			"longitude": -93.2341
+		},
+		{ 
+			"latitude": 44.9741, 
+			"longitude": -93.23415
+		},
+		{ 
+			"latitude": 44.9740, 
+			"longitude": -93.23415
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Find a staircase/elevator and head to the lowest floor. Head to the southern side of the building."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "At the end on the south side of the building is a walkway. Walk through."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "It will turn left then right (no other options)."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "You are now on the lowest floor of Ford Hall."
+		}
+	]
+}
