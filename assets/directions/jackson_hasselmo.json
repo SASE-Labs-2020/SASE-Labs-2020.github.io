@@ -3,19 +3,28 @@
 	"destination": "Hasselmo Hall",
 	"coordinates": [
 		{ 
-			"latitude": 44.972931, 
-			"longitude": -93.234462
+			"latitude": 44.9730, 
+			"longitude": -93.2335
 		},
 		{ 
-			"latitude": 44.972988, 
-			"longitude": -93.233679
+			"latitude": 44.9730, 
+			"longitude": -93.2337
+		},
+		{ 
+			"latitude": 44.9730, 
+			"longitude": -93.2340
 		}
 	],
 	"info": [
 		{
 			"src": null,
 			"desc": null,
-			"instr": "Take the skyway on the fourth floor to Hasselmo Hall."
+			"instr": "From the southern-most section of Jackson Hall, take the skyway on the fourth floor heading west."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Through there will be the fourth floor of Hasselmo Hall."
 		}
 	]
 }

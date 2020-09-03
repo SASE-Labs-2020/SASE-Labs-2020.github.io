@@ -1,21 +1,29 @@
 {
 	"origin": "Murphy Hall",
-	"destination": "Tate Hall",
+	"destination": "Tate Lab",
 	"coordinates": [
 		{ 
-			"latitude": 44.974494, 
-			"longitude": -93.234170
+			"latitude": 44.9745, 
+			"longitude": -93.23415
 		},
 		{ 
-			"latitude": 44.975046, 
-			"longitude": -93.234416
+			"latitude": 44.9747, 
+			"longitude": -93.23415
+		},
+		{ 
+			"latitude": 44.9747, 
+			"longitude": -93.2342
+		},
+		{
+			"latitude": 44.9753,
+			"longitude": -93.2342
 		}
 	],
 	"info": [
 		{
 			"src": null,
 			"desc": null,
-			"instr": "Find a staircase on floor 1, on the opposite side of the entrance."
+			"instr": "Find a staircase/elevator on floor 1, on the opposite side of the entrance."
 		},
 		{
 			"src": null,
@@ -25,12 +33,12 @@
 		{
 			"src": null,
 			"desc": null,
-			"instr": "Once you got out of the stairs, turn to your left and continue to walk straight"
+			"instr": "Once you got out of the stairs, head north and continue to walk straight"
 		},
 		{
 			"src": null,
 			"desc": null,
-			"instr": "Now, you are on the basement of Tate Hall!"
+			"instr": "Now, you are on the basement of Tate Hall. There should be a staircase and elevator up."
 		}
 	]
 }

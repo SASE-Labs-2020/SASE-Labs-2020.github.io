@@ -1,0 +1,31 @@
+{
+	"origin": "Molecular And Cellular Biology",
+	"destination": "Mayo Auditorium",
+	"coordinates": [
+		{ 
+			"latitude": 44.9730, 
+			"longitude": -93.2329
+		},
+		{ 
+			"latitude": 44.9727, 
+			"longitude": -93.2329
+		}
+	],
+	"info": [
+		{
+			"src": null,
+			"desc": null,
+			"instr": "If you are not there yet, go to the fourth floor of Molecular and Cellular Biology (there's an elevator in the northeast corner of the building)."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Head to the southwest corner of the fourth floor. There should be two skyways, take the one that heads south."
+		},
+		{
+			"src": null,
+			"desc": null,
+			"instr": "Through there will be the fourth floor of The Mayo Auditorium."
+		}
+	]
+}

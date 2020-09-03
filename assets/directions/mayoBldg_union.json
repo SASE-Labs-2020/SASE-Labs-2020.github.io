@@ -1,6 +1,6 @@
 {
-	"origin":"Coffman Memorial Union",
-	"destination":"Mayo Building",
+	"origin":"Mayo Building",
+	"destination":"Memorial Union",
 	"coordinates": [
 		{
 			"latitude": 44.972799, 
@@ -35,12 +35,7 @@
 		{
 			"src": null,
 			"desc": null,
-			"instr": "Get to the basement and find the east side of the building. Open the door to the Gopher Way."
-		},
-		{
-			"src": null,
-			"desc": null,
-			"instr": "You need a UCard to proceed. Once in the tunnel, keep ahead and follow the signs to the Mayo Building."
+			"instr": "Follow the signs to Coffman Memorial Union below the ground floor. Open the door to enter the tunnels. This should bring you to the ground floor of the Union."
 		}
 	]
 }
